@@ -13,4 +13,4 @@ https://opensea.io/0xA9155F5B6FC993A82346a8ff86EFEf513fc4c096
 
 ![Sem título](https://github.com/6uilhermeTeixeira/PolygonNFT/assets/58309213/1a58d512-1980-409c-a000-e40d3fcd9eb8)
 
-OBS: Código desenvolvido durante formação de WEB3 da DIO (Digital Innovation One)
+OBS: Projeto desenvolvido durante formação de WEB3 da DIO (Digital Innovation One)
