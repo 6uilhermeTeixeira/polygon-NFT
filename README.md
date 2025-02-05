@@ -1,4 +1,4 @@
-# PolygonNFT
+# Polygon NFT
 
 Criação de coleção de NFTs para entrega de desafio de projeto desenvolvido durante BootCamp 'Binance - Blockchain Developer with Solidity' realizado pela DIO (https://www.dio.me/)
 O desafio consiste na criação de um NFT, para a entrega do Desafio era nescessaria a criação de um repositório no Git Hub e envio da arte para a carteira do Avaliador.
